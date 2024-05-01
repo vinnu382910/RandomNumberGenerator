@@ -1,5 +1,6 @@
-In this project, let's build a **Random Number Generator** by applying the concepts we have learned till now.
-click here https://projectrng.ccbp.tech/
+In this project, let's build a **Random Number Generator** .
+
+click here: https://projectrng.ccbp.tech/
 
 ### Refer to the image below:
 
